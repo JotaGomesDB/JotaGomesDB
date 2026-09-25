@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá! Eu sou o Jean 👋
 
-<!--
-**JotaGomesDB/JotaGomesDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Sou formado em Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória profissional na área de Tecnologia, com foco em Dados, Análise de Dados e Banco de Dados.
 
-Here are some ideas to get you started:
+🎯 Meu objetivo é utilizar tecnologia e dados para entender problemas, encontrar soluções e transformar informações em decisões que gerem valor para o negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Minha trilha em Tecnologia e Dados
+
+Atualmente, sigo uma jornada de estudos direcionada para:
+
+📊 Análise de Dados
+
+🐍 Python
+
+🗄️ SQL e Bancos de Dados
+
+📈 Power BI
+
+📑 Excel e automação
+
+☁️ AWS
+
+🤖 Inteligência Artificial
+
+🧠 IA Generativa
+
+🐙 Git e GitHub
+
+Busco desenvolver não apenas conhecimento técnico, mas também a capacidade de compreender problemas de negócio, analisar informações, comunicar resultados e propor soluções.
+
+[LinkedIn](www.linkedin.com/in/jeangomesdiniz)
