@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jean 👋
+## Olá! Me chamo Jean 👋
 
 🎓Sou formado em Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória profissional na área de Tecnologia, com foco em Dados, Análise de Dados e Banco de Dados.
 
