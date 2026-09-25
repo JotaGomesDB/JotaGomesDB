@@ -27,3 +27,5 @@ Atualmente, sigo uma jornada de estudos direcionada para:
 🐙 Git e GitHub
 
 Busco desenvolver não apenas conhecimento técnico, mas também a capacidade de compreender problemas de negócio, analisar informações, comunicar resultados e propor soluções.
+
+![Jean Diniz Github Stats](https://github-readme-stats.vercel.app/api?username=JotaGomesDB&show_icons=true&theme=radical)
